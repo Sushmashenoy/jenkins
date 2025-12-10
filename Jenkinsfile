@@ -7,7 +7,7 @@ pipeline {
                 echo 'Building automatically again '
             }
             {
-                echo 'Building automatically again and again'
+                echo 'Building automatically again and again and again'
             }
         }
  stage('Test') {
